@@ -1,6 +1,6 @@
-#include <iostream>
-#include <gsl/gsl_poly.h>
 #include <gnuplot-iostream.h>
+#include <gsl/gsl_poly.h>
+#include <iostream>
 
 int main()
 {
@@ -13,9 +13,9 @@ int main()
     gp << "set title \"Random Polynomial\"\n";
 
     // Generate random polynomial coefficients
-    int degree=5;
+    int degree = 5;
     double coefficients[degree + 1];
-    gsl_rng *r = gsl_rng_alloc(gsl_rng_default);
+    gsl_rng* r = gsl_rng_alloc(gsl_rng_default);
     for (int i = 0; i <= degree; i++) {
         coefficients[i] = gsl_ran_gaussian(r, 1.0);
     }

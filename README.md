@@ -1,2 +1,13 @@
-# vortex-template-repo
-A repository meant to be used as a template for creating other new repos
+# Introduction
+
+```
+TODO: Write a simple description / introduction to the repository
+```
+
+# Setup
+
+```
+TODO: Write a setup guide
+```
+
+

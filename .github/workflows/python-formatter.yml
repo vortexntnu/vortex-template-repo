@@ -2,8 +2,12 @@ name: Format python code with black
 
 on:
   push:
-    branches: [main]
+    branches: [ main ]
+  workflow_dispatch:
 
+  pull_request:
+    types: [opened, reopened]
+    branches: [ main ]
 
 jobs:
   lint:

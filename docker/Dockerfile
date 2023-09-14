@@ -1,6 +1,6 @@
-FROM ros:noetic
+FROM ros:humble
 
-ARG distro=noetic
+ARG distro=humble
 ENV DEBIAN_FRONTEND=noninteractive
 SHELL ["/bin/bash", "-c"] 
 

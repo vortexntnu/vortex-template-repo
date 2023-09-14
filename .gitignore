@@ -207,6 +207,7 @@ cython_debug/
 
 # ROS
 devel/
+install/
 logs/
 build/
 bin/

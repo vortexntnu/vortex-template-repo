@@ -8,8 +8,17 @@ assignees: ''
 
 ---
 
-**Time estimate:** XX hours  
-**Deadline:**  DD.MONTH
+**Time estimate:** <XX hours>  
+**Deadline:**  <DD.MONTH>
 
 **Description of task:** DESCRIPTION
+**Time estimate:** <XX> hours
 
+## Suggested Workflow
+- <Step 1>
+
+## Specifications
+- <Spec 1>
+
+## Contacts
+- <@name> - <role>, <why is this person relevant?>

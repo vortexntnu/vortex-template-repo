@@ -9,5 +9,3 @@ TODO: Write a simple description / introduction to the repository
 ```
 TODO: Write a setup guide
 ```
-
-

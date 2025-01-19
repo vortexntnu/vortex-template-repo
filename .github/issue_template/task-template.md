@@ -8,8 +8,7 @@ assignees: ''
 
 ---
 
-**Time estimate:** XX hours  
+**Time estimate:** XX hours
 **Deadline:**  DD.MONTH
 
 **Description of task:** DESCRIPTION
-

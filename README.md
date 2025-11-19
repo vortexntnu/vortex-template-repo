@@ -21,7 +21,7 @@ pip install pre-commit
 
 ### Run all hooks manually
 ```bash
-pre-commit run --a
+pre-commit run --all-files
 ```
 
 ### Install the git hook

@@ -77,7 +77,7 @@ repos:
   - repo: local
     hooks:
       - id: gcc-warnings
-        name: gcc-warningss
+        name: gcc-warnings
         language: system
         entry: g++
         args: ["-Wall", "-Wextra", "-pedantic", "-Werror", "-fsyntax-only"]
